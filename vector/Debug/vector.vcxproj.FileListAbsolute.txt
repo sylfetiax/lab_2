@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\vector\Debug\vector.exe
+C:\Users\Admin\source\repos\vector\Debug\vector.pdb
